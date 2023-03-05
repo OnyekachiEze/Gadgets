@@ -184,8 +184,9 @@ header a {
 
 
 .best {
-    margin-left: 42px;
+    margin-left: 22px;
     margin-top: 420px;
+    margin-right: 62px;
 }
 .best h1 {
     font-size: 35px;
@@ -197,14 +198,17 @@ header a {
 .best span {
     color: black;
 }
-
+.best p {
+  font-size: 12px;
+  font-weight: bolder;
+}
 .best .card {
-    max-width: 300px;
-    margin: auto;
+    max-width: 250px;
+    margin: 0;
     text-align: center;
     font-family: arial;
     float: right;
-    margin-left: 22px;
+    margin-left: 62px;
     border: 1px solid #00ffff;
     margin-bottom: 12px;
     border-radius: 70%;

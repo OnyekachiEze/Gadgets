@@ -470,7 +470,7 @@ header a {
     margin-bottom: 5px;
   }
   button {
-    background-color: #c7940a;
+    background-color: #00ffff;
     color: #ffffff;
   }
   div.social {
@@ -482,12 +482,12 @@ header a {
     cursor: pointer;
   }
   .social i {
-    color: #bac6d9;
+    color: #00ffff;
   }
   
   .copyright {
     padding: 0.3em 1em;
-    background-color: #25262e;
+    background-color: #00ffff;
   }
   .footer-menu{
     float: left;
@@ -495,13 +495,14 @@ header a {
   }
   
   .footer-menu a{
-    color: #cfd2d6;
+    color: black;
     padding: 6px;
+    font-weight: bolder;
   
     text-decoration: none;
   }
   .footer-menu a:hover{
-    color: #27bcda;
+    color: ;
   }
   .copyright p {
     font-size: 0.9em;
